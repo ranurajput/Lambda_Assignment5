@@ -1,8 +1,8 @@
 package com.knoldus.kup.Assignment5;
 
 import junit.framework.Assert;
-//import static org.junit.Assert;
-//import org.junit.Test;
+import org.junit.Assert;
+import org.junit.Test;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
