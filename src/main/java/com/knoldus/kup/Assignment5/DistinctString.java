@@ -34,4 +34,7 @@ Compiled by Ranu Rajput
 Type words in single line using space and press enter
 Ranu Rajput is a Java Developer
 Distinct Values[Developer, Java, Rajput, Ranu, a, is]
+
+ranu ranu is is 
+Distinct Values[is, ranu]
  */
